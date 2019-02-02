@@ -1,0 +1,77 @@
+.navbar{
+    position: relative;
+}
+
+a{
+    padding-bottom: 20px;
+}
+
+.navbarContent{
+    margin: 0px;
+}
+
+.nameDivBg{
+    width: 100%;
+}
+
+.nameDiv{
+    width: 100%;
+    height: 50px;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.nameDiv li{
+    display: none;
+    width: 100%;
+    height: 50px;
+}
+
+.contentMargin{
+    max-width: 620px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+.linkDiv{
+    width: 45%;
+    margin: auto;
+    float: none;
+}
+
+.name{
+    padding: 0%;
+    padding-top: 10px;
+    height: 50px;
+    text-align: center;
+}
+
+.imgBox{
+    width: 500px;
+    height: 400px;
+    float: none;
+    margin: auto;
+    margin-top: 20px;
+    background-size: 500px 400px;
+}
+
+.text-Block{
+    width: 500px;
+    height: 70px;
+    margin-top: 240px;
+
+}
+
+.clickLink{
+    padding-top: 331px;
+    padding-right: 450px;
+}
+
+.portPic{
+    float: none;
+    margin-left: 33%;
+}
+
+br{
+    display: none;
+}
